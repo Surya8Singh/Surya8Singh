@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Surya Pratap Singh</h1>
 <h3 align="center">I am an aspiring ML/AI Engineer</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966”>
+<img align="right" alt="Coding" width="400" img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya8singh&label=Profile%20views&color=0e75b6&style=flat" alt="surya8singh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya8singh" alt="surya8singh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pratap_surya_" target="blank"><img src="https://img.shields.io/twitter/follow/pratap_surya_?logo=twitter&style=for-the-badge" alt="pratap_surya_" /></a> </p>
 
@@ -21,7 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pratap_surya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pratap_surya_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/singhpsurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="singhpsurya" height="30" width="40" /></a>
 <a href="https://kaggle.com/surya11singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="surya11singh" height="30" width="40" /></a>
+<a href="https://medium.com/suryapratapsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="suryapratapsi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
