@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Surya Pratap Singh</h1>
-<h3 align="center">I am an aspiring ML/AI Engineer</h3>
+<h3 align="center">I am an AI Consultant & Team Lead</h3>
 <img align="right" alt="Coding" width="400" img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya8singh&label=Profile%20views&color=0e75b6&style=flat" alt="surya8singh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pratap_surya_" target="blank"><img src="https://img.shields.io/twitter/follow/pratap_surya_?logo=twitter&style=for-the-badge" alt="pratap_surya_" /></a> </p>
 
-- 🔭 I’m currently working on [Melanoma Detection using CNN](https://github.com/Surya8Singh/Melanoma_detection_Assignemnt)
+- 🔭 I’m currently working on [Building LLMs from Scratch](https://github.com/Surya8Singh/Portfolio_Projects/tree/main/Building-LLMs-from-Scratch)
 
-- 🌱 I’m currently learning **Deep Learning converging into NLP**
+- 🌱 I’m currently learning **Building LLMs**
 
 - 👯 I’m looking to collaborate on **DL, ML, Research Papers, NLP**
 
